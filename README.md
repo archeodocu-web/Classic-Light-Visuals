@@ -24,6 +24,6 @@ Restores a classic light-bulb marker for Ambient Lights in Foundry VTT V14. The 
 - The module does not update Scene documents, light radii, intensities, visibility, or permissions.
 - It is independent of `token-light-controls` and does not modify Scene Controls.
 
-## Verification status
+<img width="1691" height="1072" alt="12" src="https://github.com/user-attachments/assets/2bb3821c-b92d-4918-bd75-b6d13abb2e01" />
 
-The package structure and JavaScript syntax were checked. It has not been launched inside a live Foundry VTT V14 world in this environment, so the visual result still needs an in-client check. In particular, the exact handle layout can vary with the light shape and future Foundry updates.
+
