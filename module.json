@@ -1,0 +1,18 @@
+{
+  "id": "classic-light-visuals",
+  "title": "Classic Light Visuals",
+  "description": "Restores a classic light-bulb marker for Ambient Lights in Foundry VTT V14, with a per-client size setting.",
+  "version": "0.3.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Classic Light Visuals"
+    }
+  ],
+  "esmodules": [
+    "scripts/classic-light-visuals.js"
+  ]
+}
