@@ -1,3 +1,4 @@
+<img width="768" height="576" alt="foundry-v12-style-light-recreation-preview" src="https://github.com/user-attachments/assets/e8415334-4ec7-4827-ac49-7d76b480b2df" />
 # Classic Light Visuals 0.3.0
 
 Restores a classic light-bulb marker for Ambient Lights in Foundry VTT V14. The icon is drawn over the V14 light-origin handle, rather than changing the light's data or replacing Foundry's interaction object.
